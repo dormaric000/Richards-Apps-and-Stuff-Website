@@ -1,3 +1,3 @@
-Visit the site here: https://dormaric000.github.io/Richards-Apps-and-Stuff-Website/
+Visit the site here: https://dormaric000.github.io/
 
 Just a website containing all my projects
